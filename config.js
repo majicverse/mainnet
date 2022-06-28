@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-//hubToken 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
+//hubToken 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
 const config = {
   network: {
     chainId: "0x38",
